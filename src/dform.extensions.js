@@ -523,7 +523,7 @@
 		 * creating the current element.
 		 * type - The type of the *this* element
 		 */
-		"[pre]" : function(options, type)
+		"[post]" : function(options, type)
 		{
 			if(type == "form")
 			{
